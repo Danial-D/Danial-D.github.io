@@ -5,19 +5,27 @@ In this portfolio, I will list several things that I have learned throughout the
 ### My Top 10 Modules for the Course
 1. Intro to JS 
 2. Advanced JS: Games and Visualizations 
-3. Advances JS: Natural Simulations
-4. 
-5.
-6.
-7.
-8.
-9.
-10. 
+3. Advanced JS: Natural Simulations
+4. AP Computer Science
+5. Intro to SQL 
+6. Intro to HTML/CSS
+7. HTML/JS: Making Webpages Interactive
+8. HTML/JS: Making Webpages Interactive with JQuery
+9. Basic Javascript
+10. Algorithms 
 
+### A Summary of the Modules
+#### Intro to JS
+#### Advanced JS: Games and Visualizations 
+#### Advanced JS: Natural Simulations
+#### AP Computer Science
+#### Intro to SQL
+#### Intro to HTML/CSS
+#### HTML/JS: Making Webpages Interactive
+#### HTML/JS: Making Webpages Interactive with JQuery
+#### Basic Javascript
+#### Algorithms 
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
