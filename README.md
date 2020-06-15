@@ -14,6 +14,9 @@ In this portfolio, I will list several things that I have learned throughout the
 9. Basic Javascript
 10. Algorithms 
 
+## How I will continue to use Computer Science to learn as a student 
+Computer science will help me learn as a student in many ways. The first manner is using computer science to help me learn how to think computationally. In other words, learning how to take a seemingly immense problem and breaking it down to little pieces. 
+
 ### A Summary of the Modules
 #### Intro to JS
 #### Advanced JS: Games and Visualizations 
