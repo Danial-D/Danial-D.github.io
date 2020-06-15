@@ -1,15 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/Danial-D/Danial-D.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this portfolio, I will list several things that I have learned throughout the ICS4U course. Feel free to scroll down to find out more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Top 10 Modules for the Course
+1. Intro to JS 
+2. Advanced JS: Games and Visualizations 
+3. Advances JS: Natural Simulations
+4. 
+5.
+6.
+7.
+8.
+9.
+10. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
